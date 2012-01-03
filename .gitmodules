@@ -1,0 +1,3 @@
+[submodule "YoYo"]
+	path = YoYo
+	url = git@github.com:desanova/libyoyo.git
