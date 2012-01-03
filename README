@@ -1,1 +1,4 @@
 GitHub README
+
+after clone do
+> git submodule update --init
